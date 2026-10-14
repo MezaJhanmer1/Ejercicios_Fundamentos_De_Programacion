@@ -1,3 +1,4 @@
+
 # Ejercicio 03 – Búsqueda Simple en Lista de Emails
 
 # Lista original que contiene los correos electrónicos
